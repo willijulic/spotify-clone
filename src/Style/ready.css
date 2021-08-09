@@ -1,0 +1,13 @@
+.rol {
+    background-color: #222326;
+}
+
+ul:hover {
+    color: green;
+    cursor: pointer;
+}
+
+i:hover {
+    color: green;
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.phone-made-for-you .phone {
+    width: 286px;
+    height: 573px;
+    bottom: -68px;
+    left: 8%;
+    position: absolute;
+    top: 11%;
+}
+
+.phone-made-for-you .phone-content {
+    position: absolute;
+    right: 0;
+    margin: auto;
+    width: 288px;
+    height: 575px;
+    bottom: -132px;
+}
+
+.phone-made-for-you .bg-art {
+    width: 269px;
+    height: 261px;
+    position: relative;
+    left: -944px;
+    top: -63px;
+}
+.get {
+    position: absolute;
+    top: 63%;
+    right: 37%;
+}
+.bodythis {
+    height: 593px;
+}
